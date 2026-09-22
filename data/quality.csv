@@ -1,0 +1,122 @@
+slug,quality,aa_variant,aa_slugs,note
+xiaomi/mimo-v2.5-20260422,25.2,MiMo-V2.5,mimo-v2-5-0424,
+deepseek/deepseek-v4-flash-20260423,26.0,"DeepSeek V4 Flash 0420 (Reasoning, High Effort)",deepseek-v4-flash-0420;deepseek-v4-flash-0420-high;deepseek-v4-flash-0420-non-reasoning,April preview build (AA: 0420)
+deepseek/deepseek-v4-flash-20260731,34.3,"DeepSeek V4 Flash 0731 (Reasoning, Max Effort)",deepseek-v4-flash,0731 build
+openai/gpt-5.6-luna-20260709,37.3,GPT-5.6 Luna (max),gpt-5-6-luna;gpt-5-6-luna-xhigh;gpt-5-6-luna-high;gpt-5-6-luna-medium;gpt-5-6-luna-low;gpt-5-6-luna-non-reasoning,
+tencent/hy3-20260706,25.3,Hy3,hy3,
+tencent/hy4-preview-20260827,,,,not in AA data
+z-ai/glm-5.3-flash-20260826,41.8,GLM 5.3 Flash,glm-5-3-flash,
+deepseek/deepseek-v4-pro-20260423,30.4,"DeepSeek V4 Pro 0424 (Reasoning, Max Effort)",deepseek-v4-pro-0424;deepseek-v4-pro-0424-high;deepseek-v4-pro-0424-non-reasoning,April build
+minimax/minimax-m3-20260531,29.2,MiniMax-M3,minimax-m3,
+z-ai/glm-5.2-20260616,33.7,GLM-5.2 (max),glm-5-2;glm-5-2-non-reasoning,
+anthropic/claude-4.6-sonnet-20260217,30.1,"Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",claude-sonnet-4-6-adaptive;claude-sonnet-4-6;claude-sonnet-4-6-non-reasoning-low-effort,
+google/gemini-3-flash-preview-20251217,26.3,Gemini 3 Flash Preview (Reasoning),gemini-3-flash-reasoning;gemini-3-flash,
+deepseek/deepseek-v3.2-20251201,21.5,DeepSeek V3.2 (Reasoning),deepseek-v3-2-reasoning;deepseek-v3-2,not the Sept Exp or Speciale
+google/gemini-2.5-flash,13.1,Gemini 2.5 Flash (Reasoning),gemini-2-5-flash-reasoning;gemini-2-5-flash,"GA version, not previews"
+anthropic/claude-4.7-opus-20260416,40.7,"Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",claude-opus-4-7;claude-opus-4-7-non-reasoning,
+tencent/hy3-preview-20260421,22.7,Hy3-preview (Reasoning),hy3-preview;hy3-non-reasoning,AA 'hy3-non-reasoning' is named Hy3-preview (Non-reasoning)
+google/gemini-2.5-flash-lite,8.5,Gemini 2.5 Flash-Lite (Reasoning),gemini-2-5-flash-lite-reasoning;gemini-2-5-flash-lite,"GA version, not Sep preview"
+deepseek/deepseek-v4.1-flash-20260910,39.5,"DeepSeek V4.1 Flash (Reasoning, Max Effort)",deepseek-v4-1-flash,
+x-ai/grok-code-fast-1,14.1,Grok Code Fast 1,grok-code-fast-1,
+anthropic/claude-4.8-opus-20260528,41.8,"Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",claude-opus-4-8,
+anthropic/claude-4.5-sonnet-20250929,20.7,Claude 4.5 Sonnet (Reasoning),claude-4-5-sonnet-thinking;claude-4-5-sonnet,
+stepfun/step-3.7-flash-20260528,19.5,Step 3.7 Flash,step-3-7-flash,
+anthropic/claude-4.6-opus-20260205,31.9,"Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",claude-opus-4-6-adaptive;claude-opus-4-6,
+openai/gpt-4o-mini,6.7,GPT-4o mini,gpt-4o-mini,
+moonshotai/kimi-k3-20260715,43.6,Kimi K3 (max),kimi-k3;kimi-k3-low,
+google/gemini-2.0-flash-001,8.9,Gemini 2.0 Flash (Feb '25),gemini-2-0-flash,Feb '25 GA
+anthropic/claude-opus-5-20260723,50.8,"Claude Opus 5 (Adaptive Reasoning, Max Effort)",claude-opus-5;claude-opus-5-xhigh;claude-opus-5-high;claude-opus-5-medium;claude-opus-5-low,
+anthropic/claude-sonnet-5-20260630,38.2,"Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",claude-sonnet-5;claude-sonnet-5-xhigh;claude-sonnet-5-high;claude-sonnet-5-medium;claude-sonnet-5-low;claude-sonnet-5-non-reasoning,
+openai/gpt-5.6-sol-20260709,47.0,GPT-5.6 Sol (max),gpt-5-6-sol;gpt-5-6-sol-xhigh;gpt-5-6-sol-high;gpt-5-6-sol-medium;gpt-5-6-sol-low;gpt-5-6-sol-non-reasoning,
+moonshotai/kimi-k2.5-0127,23.5,Kimi K2.5 (Reasoning),kimi-k2-5;kimi-k2-5-non-reasoning,
+minimax/minimax-m2.7-20260318,22.8,MiniMax-M2.7,minimax-m2-7,
+xiaomi/mimo-v2-pro-20260318,28.6,MiMo-V2-Pro,mimo-v2-pro,
+z-ai/glm-5.3-20260816,44.8,GLM-5.3 (max),glm-5-3,not the Flash model
+x-ai/grok-4.1-fast,20.4,Grok 4.1 Fast (Reasoning),grok-4-1-fast-reasoning;grok-4-1-fast,
+anthropic/claude-4-sonnet-20250522,18.9,Claude 4 Sonnet (Reasoning),claude-4-sonnet-thinking;claude-4-sonnet,
+google/gemini-3.7-flash-20260813,39.6,Gemini 3.7 Flash (medium),gemini-3-7-flash;gemini-3-7-flash-medium;gemini-3-7-flash-low,
+xiaomi/mimo-v2.5-pro-20260422,26.0,MiMo-V2.5-Pro,mimo-v2-5-pro;mimo-v2-5-pro-non-reasoning,
+moonshotai/kimi-k2.6-20260420,27.0,Kimi K2.6,kimi-k2-6;kimi-k2-6-non-reasoning,
+openai/gpt-5.5-20260423,38.4,GPT-5.5 (xhigh),gpt-5-5;gpt-5-5-high;gpt-5-5-medium;gpt-5-5-low;gpt-5-5-non-reasoning,not Instant or Pro
+anthropic/claude-4.5-haiku-20251001,16.9,Claude 4.5 Haiku (Reasoning),claude-4-5-haiku-reasoning;claude-4-5-haiku,
+google/gemini-3.1-flash-lite-20260507,15.6,Gemini 3.1 Flash-Lite,gemini-3-1-flash-lite-preview,AA has one Gemini 3.1 Flash-Lite entry for preview and GA
+openai/gpt-5.4-20260305,39.0,GPT-5.4 (xhigh),gpt-5-4;gpt-5-4-low;gpt-5-4-non-reasoning,not mini or nano
+google/gemini-3.1-pro-preview-20260219,29.7,Gemini 3.1 Pro Preview,gemini-3-1-pro-preview,
+minimax/minimax-m2.5-20260211,22.8,MiniMax-M2.5,minimax-m2-5,
+google/gemini-3.6-flash-20260721,34.0,Gemini 3.6 Flash (high),gemini-3-6-flash,
+upstage/solar-pro4-20260810,28.2,Solar Pro 4,solar-pro4,
+google/gemini-2.5-pro,16.1,Gemini 2.5 Pro,gemini-2-5-pro,"GA version, not previews"
+deepseek/deepseek-v4-pro-20260813,36.0,"DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",deepseek-v4-pro,0813 build
+z-ai/glm-5-20260211,27.9,GLM-5 (Reasoning),glm-5;glm-5-non-reasoning,not Turbo
+google/gemini-3.8-flash-20260902,40.9,Gemini 3.8 Flash (high),gemini-3-8-flash;gemini-3-8-flash-medium;gemini-3-8-flash-low,
+openai/gpt-5-mini-2025-08-07,20.6,GPT-5 mini (medium),gpt-5-mini;gpt-5-mini-medium;gpt-5-mini-minimal,
+mistralai/mistral-nemo,,,,not in AA data
+openai/gpt-oss-120b,11.6,gpt-oss-120b (high),gpt-oss-120b;gpt-oss-120b-low,
+openai/gpt-5.6-terra-20260709,42.1,GPT-5.6 Terra (max),gpt-5-6-terra;gpt-5-6-terra-xhigh;gpt-5-6-terra-high;gpt-5-6-terra-medium;gpt-5-6-terra-low;gpt-5-6-terra-non-reasoning,
+z-ai/glm-5.1-20260406,26.1,GLM-5.1 (Reasoning),glm-5-1;glm-5-1-non-reasoning,
+meta/muse-spark-1.3-contributor-20260902,48.1,Muse Spark 1.3 (max),muse-spark-1-3;muse-spark-1-3-xhigh,UNCERTAIN: OpenRouter 'contributor' variant not in AA; mapped to Muse Spark 1.3
+google/gemini-3.5-flash-20260519,33.6,Gemini 3.5 Flash (medium),gemini-3-5-flash;gemini-3-5-flash-medium;gemini-3-5-flash-minimal,not Flash-Lite
+google/gemini-3.1-flash-lite-preview-20260303,15.6,Gemini 3.1 Flash-Lite,gemini-3-1-flash-lite-preview,
+x-ai/grok-4-fast,17.9,Grok 4 Fast (Reasoning),grok-4-fast-reasoning;grok-4-fast,
+anthropic/claude-4.5-opus-20251124,29.1,Claude Opus 4.5 (Reasoning),claude-opus-4-5-thinking;claude-opus-4-5,
+anthropic/claude-3.5-sonnet,7.9,Claude 3.5 Sonnet (Oct '24),claude-35-sonnet,Oct '24 version
+anthropic/claude-3-7-sonnet-20250219,17.7,Claude 3.7 Sonnet (Reasoning),claude-3-7-sonnet-thinking;claude-3-7-sonnet,
+google/gemini-2.5-flash-preview-04-17,11.7,Gemini 2.5 Flash Preview (Reasoning),gemini-2-5-flash-reasoning-04-2025;gemini-2-5-flash-04-2025,
+google/gemini-2.5-pro-preview-03-25,15.0,Gemini 2.5 Pro Preview (Mar' 25),gemini-2-5-pro-03-25,
+deepseek/deepseek-chat-v3-0324,9.7,DeepSeek V3 0324,deepseek-v3-0324,
+google/gemini-2.5-flash-preview-05-20,13.1,Gemini 2.5 Flash (Reasoning),gemini-2-5-flash-reasoning;gemini-2-5-flash,AA has one entry (May 2025) for this preview and the GA model
+google/gemini-flash-1.5,7.1,Gemini 1.5 Flash (Sep '24),gemini-1-5-flash,
+google/gemini-flash-1.5-8b,6.2,Gemini 1.5 Flash-8B,gemini-1-5-flash-8b,
+meta-llama/llama-3.3-70b-instruct,7.7,Llama 3.3 Instruct 70B,llama-3-3-instruct-70b,
+google/gemini-2.0-flash-lite-001,7.4,Gemini 2.0 Flash-Lite (Feb '25),gemini-2-0-flash-lite-001,
+openai/gpt-4.1-mini-2025-04-14,10.2,GPT-4.1 mini,gpt-4-1-mini,
+qwen/qwen3-coder-480b-a35b-07-25,11.9,Qwen3 Coder 480B A35B Instruct,qwen3-coder-480b-a35b-instruct,
+z-ai/glm-4.6,18.5,GLM-4.6 (Reasoning),glm-4-6-reasoning;glm-4-6,
+minimax/minimax-m2,18.6,MiniMax-M2,minimax-m2,
+deepseek/deepseek-chat-v3,8.5,DeepSeek V3 (Dec '24),deepseek-v3,Dec '24 version
+openai/gpt-4.1-2025-04-14,12.7,GPT-4.1,gpt-4-1,
+openai/gpt-5-2025-08-07,23.0,GPT-5 (high),gpt-5;gpt-5-medium;gpt-5-minimal,
+z-ai/glm-5-turbo-20260315,26.6,GLM-5-Turbo,glm-5-turbo,
+deepseek/deepseek-chat-v3.1,13.7,DeepSeek V3.1 (Non-reasoning),deepseek-v3-1-reasoning;deepseek-v3-1,
+openai/gpt-5-nano-2025-08-07,13.0,GPT-5 nano (high),gpt-5-nano;gpt-5-nano-medium;gpt-5-nano-minimal,
+google/gemini-3-pro-preview-20251117,28.0,Gemini 3 Pro Preview (high),gemini-3-pro;gemini-3-pro-low,
+minimax/minimax-m2.1,20.9,MiniMax-M2.1,minimax-m2-1,
+qwen/qwen3-30b-a3b-04-28,7.6,Qwen3 30B A3B (Reasoning),qwen3-30b-a3b-instruct-reasoning;qwen3-30b-a3b-instruct,
+qwen/qwen3-235b-a22b-07-25,12.7,Qwen3 235B A22B 2507 (Reasoning),qwen3-235b-a22b-instruct-2507-reasoning;qwen3-235b-a22b-instruct-2507,
+google/gemini-2.5-flash-preview-09-2025,15.5,Gemini 2.5 Flash Preview (Sep '25) (Reasoning),gemini-2-5-flash-preview-09-2025-reasoning;gemini-2-5-flash-preview-09-2025,
+z-ai/glm-4.5,12.8,GLM-4.5 (Reasoning),glm-4.5;glm-4-5-air,"AA slug keeps the dot; Air is a smaller sibling, remove it if you prefer"
+google/gemini-2.5-flash-lite-preview-09-2025,10.4,Gemini 2.5 Flash-Lite Preview (Sep '25) (Reasoning),gemini-2-5-flash-lite-preview-09-2025-reasoning;gemini-2-5-flash-lite-preview-09-2025,
+moonshotai/kimi-k2,12.7,Kimi K2,kimi-k2,July 2025 version
+stepfun/step-3.5-flash,16.6,Step 3.5 Flash,step-3-5-flash-0202,Feb 2026 release; AA also has a 2603 build
+google/gemini-2.5-pro-exp-03-25,15.0,Gemini 2.5 Pro Preview (Mar' 25),gemini-2-5-pro-03-25,same March build as the preview
+meta-llama/llama-3.1-70b-instruct,,,,not in AA data
+google/gemini-2.5-flash-lite-preview-06-17,8.5,Gemini 2.5 Flash-Lite (Reasoning),gemini-2-5-flash-lite-reasoning;gemini-2-5-flash-lite,
+z-ai/glm-4.7-20251222,22.2,GLM-4.7 (Reasoning),glm-4-7;glm-4-7-non-reasoning,
+anthropic/claude-3-5-haiku,8.9,Claude 3.5 Haiku,claude-3-5-haiku,
+openai/gpt-oss-20b,10.0,gpt-oss-20b (low),gpt-oss-20b;gpt-oss-20b-low,
+openai/gpt-5.2-20251211,30.4,GPT-5.2 (xhigh),gpt-5-2;gpt-5-2-medium;gpt-5-2-non-reasoning,not the Codex model
+deepseek/deepseek-r1,11.4,DeepSeek R1 (Jan '25),deepseek-r1-0120,"CAREFUL: AA slug 'deepseek-r1' is the May 0528 build, not this one"
+x-ai/grok-4-07-09,22.5,Grok 4,grok-4,
+gryphe/mythomax-l2-13b,,,,not in AA data
+google/gemini-2.5-pro-preview-06-05,16.1,Gemini 2.5 Pro,gemini-2-5-pro,AA entry dated 2025-06-05
+xiaomi/mimo-v2-flash-20251210,20.8,MiMo-V2-Flash (Reasoning),mimo-v2-flash-reasoning;mimo-v2-flash,
+mistralai/mistral-7b-instruct,5.0,Mistral 7B Instruct,mistral-7b-instruct,
+deepseek/deepseek-v3.2-exp,16.6,DeepSeek V3.2 Exp (Reasoning),deepseek-v3-2-reasoning-0925;deepseek-v3-2-0925,
+microsoft/wizardlm-2-8x22b,,,,not in AA data
+meta-llama/llama-4-maverick-17b-128e-instruct,10.0,Llama 4 Maverick,llama-4-maverick,
+meta-llama/llama-3.1-8b-instruct,,,,not in AA data
+google/gemma-3-12b-it,3.8,Gemma 3 12B Instruct,gemma-3-12b,
+nousresearch/hermes-3-llama-3.1-405b,,,,not in AA data (AA has the 70B version only)
+google/gemma-4-26b-a4b-it-20260403,16.7,Gemma 4 26B A4B (Reasoning),gemma-4-26b-a4b;gemma-4-26b-a4b-non-reasoning,
+google/gemma-4-31b-it-20260402,19.0,Gemma 4 31B (Reasoning),gemma-4-31b;gemma-4-31b-non-reasoning,
+meta-llama/llama-3.2-1b-instruct,4.8,Llama 3.2 Instruct 1B,llama-3-2-instruct-1b,
+xiaomi/mimo-v2-omni-20260318,23.9,MiMo-V2-Omni,mimo-v2-omni,AA also has an 0327 build
+qwen/qwen3.6-plus-04-02,27.0,Qwen3.6 Plus,qwen3-6-plus,
+deepseek/deepseek-r1-0528,13.1,DeepSeek R1 0528 (May '25),deepseek-r1,AA name: DeepSeek R1 0528
+openai/gpt-5.4-mini-20260317,24.1,GPT-5.4 mini (xhigh),gpt-5-4-mini;gpt-5-4-mini-medium;gpt-5-4-mini-non-reasoning,
+anthropic/claude-3.5-sonnet-20240620,7.2,Claude 3.5 Sonnet (June '24),claude-35-sonnet-june-24,
+deepseek/deepseek-r1-distill-llama-70b,7.9,DeepSeek R1 Distill Llama 70B,deepseek-r1-distill-llama-70b,
+qwen/qwen3-vl-235b-a22b-instruct,9.9,Qwen3 VL 235B A22B Instruct,qwen3-vl-235b-a22b-instruct,"instruct build, not the reasoning build"
+google/gemma-3-27b-it,4.9,Gemma 3 27B Instruct,gemma-3-27b,
+openai/gpt-5.3-codex-20260224,32.5,GPT-5.3 Codex (xhigh),gpt-5-3-codex,
+anthropic/claude-4.1-opus-20250805,22.8,Claude 4.1 Opus (Reasoning),claude-4-1-opus-thinking;claude-4-1-opus,
