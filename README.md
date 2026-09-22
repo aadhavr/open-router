@@ -117,7 +117,8 @@ The scripts print these, and the post reports them:
 - OpenRouter rankings dataset, <https://openrouter.ai/rankings>, CC BY 4.0.
 - Artificial Analysis Intelligence Index, <https://artificialanalysis.ai>.
 - Internet Archive Wayback Machine, <https://web.archive.org>.
-- Fradkin, A. (2025). Demand for large language models: evidence from an AI router.
+- Fradkin, A. (2025). Demand for LLMs: Descriptive Evidence on
+Substitution, Market Expansion, and Multihoming.
 
 ## License
 
