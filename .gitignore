@@ -1,0 +1,46 @@
+# Python
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Secrets: AA_API_KEY and OPENROUTER_API_KEY live here, never in the repo
+.env
+*.key
+
+# Superseded label files (the current ones are tracked)
+data/old_*.csv
+
+# Scratch
+terminal_log.txt
+data/wayback_bad/
+
+# ---------------------------------------------------------------------------
+# Derived files. Every one of these is rebuilt by the scripts from the raw
+# inputs that ARE tracked (data/rankings_daily.csv, data/wayback/,
+# data/aa_models.json, data/manual_labels.csv, data/aa_manual_matches.csv).
+# Tracked derived files: the small weekly panels the post reads.
+# ---------------------------------------------------------------------------
+data/panel_hist.csv
+data/panel_labeled.csv
+data/panel_latest.csv
+data/panel_priced.csv
+data/price_history.csv
+data/open_share_daily.csv
+data/open_share_daily_hist.csv
+data/aa_matches.csv
+data/unmatched_slugs.csv
+data/unmatched_hist.csv
+data/review_top_models.csv
+data/check_hf_field.csv
+
+# Old matplotlib figures (the post uses the interactive ones in figs/)
+data/fig_*.png
+
+# Text dumps of results that also appear in the post
+data/*.txt
